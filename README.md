@@ -42,6 +42,8 @@ result = pd.DataFrame({'설명가능한 분산 비율(고윳값)':pca.explained_
 result['누적기여율'] = result['기여율'].cumsum()
 result
 ```
+![pca 차원 갯수 정하기](https://user-images.githubusercontent.com/107994727/204129262-52b58da1-ab18-45da-a5ff-cc15a070c378.png)
+
 
 2. Random Forest - 예정
 Decision Tree를 고민하였으나 이 경우 오버피팅에 으로 인한 일반화 부족의 문제로 이를 보완해주는 Random Forest를 하기로 함.
