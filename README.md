@@ -54,6 +54,10 @@ result
  
 ![image](https://user-images.githubusercontent.com/107994727/204741584-dd03ce81-54a9-40ac-8ba9-ab4dec2fc3b7.png)
 
+3. Logistic Regression
+
+
+
 
 ## 결론 
 아직 분석이 따 끝나지 않아 결론을 말하는 것이 순서에 맞지 않아 기대효과로 대체함.
