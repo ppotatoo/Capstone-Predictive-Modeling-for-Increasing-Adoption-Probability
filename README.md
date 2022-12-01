@@ -57,6 +57,8 @@ pca를 실시할 하기에는 차원 개수 대비 기여율이 완만하게 늘
 
 3. Logistic Regression
 
+![image](https://user-images.githubusercontent.com/107994727/204983283-cbf66d68-8ce2-4f15-94d2-e4993db646bd.png)
+
 
 
 
