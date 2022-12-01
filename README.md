@@ -42,7 +42,8 @@ result = pd.DataFrame({'설명가능한 분산 비율(고윳값)':pca.explained_
 result['누적기여율'] = result['기여율'].cumsum()
 result
 ```
-![pca 차원 갯수 정하기](https://user-images.githubusercontent.com/107994727/204129262-52b58da1-ab18-45da-a5ff-cc15a070c378.png)
+pca를 실시할 하기에는 차원 개수 대비 기여율이 완만하게 늘어나므로 적합하지 않다고 판단. pca분석은 더이상 진행하지 않음.
+![image](https://user-images.githubusercontent.com/107994727/204982773-49d72048-c68a-4062-b3dc-2f90cca4b79c.png)
 
 
 2. Random Forest - 예정
